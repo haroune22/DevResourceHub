@@ -25,7 +25,7 @@ const Page = async({searchParams}:Props) => {
       <section className='nav-padding w-full'>
         <div className="flex-center realtive min-h-[274px] w-full flex-col rounded-xl bg-banner bg-cover bg-center text-center ">
           <h1 className="text-white sm:heading1 heading2 mb-6 text-center">
-            Javascript Mastery Resources
+            Javascript Resources
           </h1>
         </div>
         <SearchForm/>
